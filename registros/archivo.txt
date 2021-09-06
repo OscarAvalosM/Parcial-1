@@ -1,0 +1,11 @@
+liseth Ramos  ; Fue poco lo que logre aprender pues, se me hace un poco dificil retener temas sin practicarlo, lo que logre aprender fue a crear repositorios en GitHUB y crear una rama también clonar un repositorio.Para superar mis debilidades, pedi ayuda a compañeros que me explicaran detalladamente como hacer cada una de las cosas que se me dificultaban , ahora se me dificulta pero ya es menos.                                                                                                                                                                                           
+
+
+Oscar Avalos ; my aprendizaje en este computo de la materia programacion computacional fue comprender sobre las bibliotecas aprender sobre los diccionarios y a entender mas sobre las reglas y pasos a seguir para elaborar distintos programas con el lenguaje c# lo que mas me costo fue la creación de las librerias.                                                                                                                              
+
+
+
+
+Eliezer Diaz  ;  el aprendizaje que obtube fue positivo ya que logre comprender la mayoria de los contenidos explicados en la semana correspondiente aprendi sobre la ejecución sobre las bibliotecas elaboración de distintos programas asignados en clase lo que mas me costo elaborar fue la creación de la librerias.                                                                                                                              
+
+italo antonio; Aprendimo mucho sobre este lenguje que es el C# ya que no conocia mucho tambien el panejo de liberarias y sus   funcionalidad, tambien el manejo de Github y como con esta podmeos subir nuestro archivo de lenguje de codigos.Tambien aprendi mucho sobre la creaciones de login y creaciones de menu y como con esta podemos redicrecionar archivos para que se cree o leea este mismo archivo dependiendo la orden que le demos.                                                                                                                                                         
